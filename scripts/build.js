@@ -43,7 +43,7 @@ function homePage() {
     '<section class="hero"><div class="wrap"><div class="hero-grid">' +
       '<div><p class="eyebrow">The gallery of Delaly</p>' +
       '<h1>Lake Michigan, <em>through the eyes of the masters.</em></h1>' +
-      '<p class="lede">' + T.esc(config.tagline) + '. Twenty-seven shoreline studies — one beach, reimagined through twenty-seven hands, from Van Gogh to Warhol. Museum-quality prints, made to order.</p>' +
+      '<p class="lede">' + T.esc(config.tagline) + '. Forty-four shoreline studies — one beach, reimagined through forty-four hands, from Van Gogh to Titian. Museum-quality prints, made to order.</p>' +
       '<div class="btn-row">' +
         '<a class="btn btn-primary" href="/exhibits/beach/">Explore the Beach exhibit</a>' +
         '<a class="btn btn-ghost" href="/about/">About the artist</a>' +
