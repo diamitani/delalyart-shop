@@ -1,0 +1,491 @@
+{
+  "_comment": "Catalog for Delaly Art. To add a new exhibit: 1) drop images into public/art/, 2) add an exhibit object below, 3) add artwork objects pointing at it. Then run: node scripts/build.js",
+  "artworks": [
+    {
+      "blurb": "The old beacon tower holds its post beneath a sky gone electric — cobalt swirls and molten stars over Lake Michigan.",
+      "exhibitId": "beach",
+      "id": "beach-01-van-gogh",
+      "image": "beach-01-van-gogh.jpg",
+      "style": "After Vincent van Gogh",
+      "title": "Starry Breakwater"
+    },
+    {
+      "blurb": "Dawn dissolves into dabs of light; the breakwater softens into a watercolor memory of the lake.",
+      "exhibitId": "beach",
+      "id": "beach-02-monet",
+      "image": "beach-02-monet.jpg",
+      "style": "After Claude Monet",
+      "title": "Morning on the Shoreline"
+    },
+    {
+      "blurb": "Time melts along the shoreline as the breakwater drifts into a dream only the lake remembers.",
+      "exhibitId": "beach",
+      "id": "beach-03-dali",
+      "image": "beach-03-dali.jpg",
+      "style": "After Salvador Dalí",
+      "title": "The Persistence of the Lake"
+    },
+    {
+      "blurb": "Prussian-blue rollers curl beneath the lonely tower — a woodblock hymn to the inland sea.",
+      "exhibitId": "beach",
+      "id": "beach-04-hokusai",
+      "image": "beach-04-hokusai.jpg",
+      "style": "After Katsushika Hokusai",
+      "title": "The Great Wave at the Beacon"
+    },
+    {
+      "blurb": "Sunset pours molten gold across the surf; the horizon dissolves into pure radiance.",
+      "exhibitId": "beach",
+      "id": "beach-05-turner",
+      "image": "beach-05-turner.jpg",
+      "style": "After J.M.W. Turner",
+      "title": "Light Over Still Water"
+    },
+    {
+      "blurb": "A thousand patient dots of color rebuild the beach — pointillism's quiet, shimmering arithmetic.",
+      "exhibitId": "beach",
+      "id": "beach-06-seurat",
+      "image": "beach-06-seurat.jpg",
+      "style": "After Georges Seurat",
+      "title": "Sunday on the Sand"
+    },
+    {
+      "blurb": "Ornamental gold leaf weaves through sky and surf; the breakwater becomes a jeweled frieze.",
+      "exhibitId": "beach",
+      "id": "beach-07-klimt",
+      "image": "beach-07-klimt.jpg",
+      "style": "After Gustav Klimt",
+      "title": "The Golden Shore"
+    },
+    {
+      "blurb": "The lake simplifies into bold bands of feeling — pink, blue, and the long breath of evening.",
+      "exhibitId": "beach",
+      "id": "beach-08-okeeffe",
+      "image": "beach-08-okeeffe.jpg",
+      "style": "After Georgia O'Keeffe",
+      "title": "Pink Horizon"
+    },
+    {
+      "blurb": "The shoreline undulates with feeling; two small figures sit inside a melancholy only dusk understands.",
+      "exhibitId": "beach",
+      "id": "beach-09-munch",
+      "image": "beach-09-munch.jpg",
+      "style": "After Edvard Munch",
+      "title": "Anxiety at Dusk"
+    },
+    {
+      "blurb": "The pier, the walker, the waves — fractured into interlocking planes of rose and blue.",
+      "exhibitId": "beach",
+      "id": "beach-10-picasso",
+      "image": "beach-10-picasso.jpg",
+      "style": "After Pablo Picasso",
+      "title": "Cubist Lighthouse"
+    },
+    {
+      "blurb": "The seascape dissolves into pure color-field meditation — mauve and blue breathing against each other.",
+      "exhibitId": "beach",
+      "id": "beach-11-rothko",
+      "image": "beach-11-rothko.jpg",
+      "style": "After Mark Rothko",
+      "title": "Fields of Dusk"
+    },
+    {
+      "blurb": "Vast water, luminous horizon — a romantic meditation on the infinite at the lake's edge.",
+      "exhibitId": "beach",
+      "id": "beach-12-friedrich",
+      "image": "beach-12-friedrich.jpg",
+      "style": "After Caspar David Friedrich",
+      "title": "The Sublime Shore"
+    },
+    {
+      "blurb": "Feathery light dances across rippled sand; an impression of warmth you can almost feel.",
+      "exhibitId": "beach",
+      "id": "beach-13-renoir",
+      "image": "beach-13-renoir.jpg",
+      "style": "After Pierre-Auguste Renoir",
+      "title": "Sand in Sunlight"
+    },
+    {
+      "blurb": "Short, deliberate strokes build the shore into solid, sculptural planes of color.",
+      "exhibitId": "beach",
+      "id": "beach-14-cezanne",
+      "image": "beach-14-cezanne.jpg",
+      "style": "After Paul Cézanne",
+      "title": "Construction of a Beach"
+    },
+    {
+      "blurb": "A cheerful naive vision — flat vivid color, a wading dog, and the lighthouse pier beyond.",
+      "exhibitId": "beach",
+      "id": "beach-15-rousseau",
+      "image": "beach-15-rousseau.jpg",
+      "style": "After Henri Rousseau",
+      "title": "The Dog at the Breakwater"
+    },
+    {
+      "blurb": "Chiaroscuro drama: golden moonlight strikes the breakwater while the night holds its breath.",
+      "exhibitId": "beach",
+      "id": "beach-16-rembrandt",
+      "image": "beach-16-rembrandt.jpg",
+      "style": "After Rembrandt van Rijn",
+      "title": "Moonlight on the Rocks"
+    },
+    {
+      "blurb": "Wild, joyful color — emerald water, vermilion rocks — the beach as pure exuberance.",
+      "exhibitId": "beach",
+      "id": "beach-17-matisse",
+      "image": "beach-17-matisse.jpg",
+      "style": "After Henri Matisse",
+      "title": "Fauve Shoreline"
+    },
+    {
+      "blurb": "The shoreline as pop icon — high-voltage color blocks, silkscreen swagger, dog included.",
+      "exhibitId": "beach",
+      "id": "beach-18-warhol",
+      "image": "beach-18-warhol.jpg",
+      "style": "After Andy Warhol",
+      "title": "Beach, in Neon"
+    },
+    {
+      "blurb": "A misty tonal harmony of grays — the beach at its most quiet and poetic.",
+      "exhibitId": "beach",
+      "id": "beach-19-whistler",
+      "image": "beach-19-whistler.jpg",
+      "style": "After James McNeill Whistler",
+      "title": "Nocturne in Gray and Silver"
+    },
+    {
+      "blurb": "Towering clouds gather over the shore — romantic naturalism, painted with weather in its veins.",
+      "exhibitId": "beach",
+      "id": "beach-20-constable",
+      "image": "beach-20-constable.jpg",
+      "style": "After John Constable",
+      "title": "Cloud Study Over the Lake"
+    },
+    {
+      "blurb": "Elongated shadows and a bruised, tenebrous sky — the beacon tower stands as a spiritual sentinel over the rocks.",
+      "exhibitId": "beach",
+      "id": "beach-21-el-greco",
+      "image": "beach-21-el-greco.jpg",
+      "style": "After El Greco",
+      "title": "The Tower in the Storm"
+    },
+    {
+      "blurb": "Stark and cinematic — an empty beach under a held breath of gray light. Nobody is coming; that is the point.",
+      "exhibitId": "beach",
+      "id": "beach-22-hopper",
+      "image": "beach-22-hopper.jpg",
+      "style": "After Edward Hopper",
+      "title": "Solitude, Lake Michigan"
+    },
+    {
+      "blurb": "Ominous and brooding — the lake turns inward, all shadow and undertow, in the manner of the Black Paintings.",
+      "exhibitId": "beach",
+      "id": "beach-23-goya",
+      "image": "beach-23-goya.jpg",
+      "style": "After Francisco Goya",
+      "title": "The Dark Lake"
+    },
+    {
+      "blurb": "A floating dreamscape — the beacon tower spirals skyward through blossoms, gulls, and pastel stones.",
+      "exhibitId": "beach",
+      "id": "beach-24-chagall",
+      "image": "beach-24-chagall.jpg",
+      "style": "After Marc Chagall",
+      "title": "The Tower Dreams in Flowers"
+    },
+    {
+      "blurb": "Ben-Day dots and bold primaries turn the old tower into a comic-strip icon. Lake Michigan, but make it pop.",
+      "exhibitId": "beach",
+      "id": "beach-25-lichtenstein",
+      "image": "beach-25-lichtenstein.jpg",
+      "style": "After Roy Lichtenstein",
+      "title": "Beacon! (A Pop Shoreline)"
+    },
+    {
+      "blurb": "Playful biomorphic shapes dance across the rocks — the beach reimagined as a star chart.",
+      "exhibitId": "beach",
+      "id": "beach-26-miro",
+      "image": "beach-26-miro.jpg",
+      "style": "After Joan Miró",
+      "title": "Constellation Over the Breakwater"
+    },
+    {
+      "blurb": "Crisp, deadpan surrealism — an ordinary beach rendered quietly impossible. Ceci n'est pas une plage.",
+      "exhibitId": "beach",
+      "id": "beach-27-magritte",
+      "image": "beach-27-magritte.jpg",
+      "style": "After René Magritte",
+      "title": "The Treachery of the Shore"
+    },
+    {
+      "id": "beach-29-aivazovsky",
+      "exhibitId": "nocturne",
+      "image": "beach-29-aivazovsky.jpg",
+      "title": "The Beacon at Midnight",
+      "style": "After Ivan Aivazovsky",
+      "blurb": "Moonlight pours silver over the breakwater; the sea holds its breath beneath the tower."
+    },
+    {
+      "id": "beach-30-bierstadt",
+      "exhibitId": "nocturne",
+      "image": "beach-30-bierstadt.jpg",
+      "title": "Stillness After Dark",
+      "style": "After Albert Bierstadt",
+      "blurb": "The lake goes glassy under a soft nocturnal glow; even the rocks seem to listen."
+    },
+    {
+      "id": "beach-31-wright",
+      "exhibitId": "nocturne",
+      "image": "beach-31-wright.jpg",
+      "title": "Lunar Inquiry",
+      "style": "After Joseph Wright of Derby",
+      "blurb": "Moonlight dissects the waves with scientific clarity — the sublime, measured in lumens."
+    },
+    {
+      "id": "beach-32-redon",
+      "exhibitId": "nocturne",
+      "image": "beach-32-redon.jpg",
+      "title": "The Dreaming Moon",
+      "style": "After Odilon Redon",
+      "blurb": "The moon dissolves into velvet darkness, a radiant eye in the deep blue night."
+    },
+    {
+      "id": "beach-33-bellows",
+      "exhibitId": "nocturne",
+      "image": "beach-33-bellows.jpg",
+      "title": "Windows on the Dark",
+      "style": "After George Bellows",
+      "blurb": "Warm windows burn against the blue-black sky; the city refuses the night's surrender."
+    },
+    {
+      "id": "beach-34-palmer",
+      "exhibitId": "nocturne",
+      "image": "beach-34-palmer.jpg",
+      "title": "Vision of Sand",
+      "style": "After Samuel Palmer",
+      "blurb": "A visionary glow rises from the sand — the beach reimagined as a secret, sacred place."
+    },
+    {
+      "id": "beach-35-ryder",
+      "exhibitId": "nocturne",
+      "image": "beach-35-ryder.jpg",
+      "title": "The Haunted Sea",
+      "style": "After Albert Pinkham Ryder",
+      "blurb": "Thick impasto waves carry a haunted moon; the lake dreams its own ghost story."
+    },
+    {
+      "id": "beach-36-kiefer",
+      "exhibitId": "nocturne",
+      "image": "beach-36-kiefer.jpg",
+      "title": "Ashen Night",
+      "style": "After Anselm Kiefer",
+      "blurb": "Straw and ash tones bury the shoreline in monumental melancholy — night as history."
+    },
+    {
+      "id": "beach-37-richter",
+      "exhibitId": "nocturne",
+      "image": "beach-37-richter.jpg",
+      "title": "Blurred Nocturne",
+      "style": "After Gerhard Richter",
+      "blurb": "The moon softens into a beautiful blur; memory and water become indistinguishable."
+    },
+    {
+      "id": "beach-38-delacroix",
+      "exhibitId": "nocturne",
+      "image": "beach-38-delacroix.jpg",
+      "title": "Storm of Night",
+      "style": "After Eugène Delacroix",
+      "blurb": "Clouds churn around a veiled moon — passion and tempest over the sleeping lake."
+    },
+    {
+      "id": "beach-39-feininger",
+      "exhibitId": "city",
+      "image": "beach-39-feininger.jpg",
+      "title": "Prismatic Towers",
+      "style": "After Lyonel Feininger",
+      "blurb": "The skyline shatters into crystal geometry; the city lights up in fragments of color."
+    },
+    {
+      "id": "beach-40-sheeler",
+      "exhibitId": "city",
+      "image": "beach-40-sheeler.jpg",
+      "title": "Machine Night",
+      "style": "After Charles Sheeler",
+      "blurb": "Crisp towers rise in streamlined silence — the precision of a city dreaming."
+    },
+    {
+      "id": "beach-41-hockney",
+      "exhibitId": "city",
+      "image": "beach-41-hockney.jpg",
+      "title": "Night Over the Railing",
+      "style": "After David Hockney",
+      "blurb": "Vivid color floods the skyline; even midnight feels electric with light."
+    },
+    {
+      "id": "beach-42-diebenkorn",
+      "exhibitId": "city",
+      "image": "beach-42-diebenkorn.jpg",
+      "title": "Sunset in Bands",
+      "style": "After Richard Diebenkorn",
+      "blurb": "Bands of radiant color dissolve into a glowing horizon — dusk as meditation."
+    },
+    {
+      "id": "beach-43-basquiat",
+      "exhibitId": "city",
+      "image": "beach-43-basquiat.jpg",
+      "title": "Crown of the Sunset",
+      "style": "After Jean-Michel Basquiat",
+      "blurb": "Crowns and graffiti marks scrawl across a burning orange skyline — the city speaks in symbols."
+    },
+    {
+      "id": "beach-44-kandinsky",
+      "exhibitId": "city",
+      "image": "beach-44-kandinsky.jpg",
+      "title": "Symphony of the Shore",
+      "style": "After Wassily Kandinsky",
+      "blurb": "The aerial lakefront dissolves into circles and arcs — a spiritual geometry of blue and gold."
+    },
+    {
+      "id": "beach-45-mondrian",
+      "exhibitId": "city",
+      "image": "beach-45-mondrian.jpg",
+      "title": "The Grid Breaks",
+      "style": "After Piet Mondrian",
+      "blurb": "Primary blocks snap into rhythm — until the curving shoreline breaks the grid."
+    },
+    {
+      "id": "beach-28-kusama",
+      "exhibitId": "shore",
+      "image": "beach-28-kusama.jpg",
+      "title": "Pollen Spell",
+      "style": "After Yayoi Kusama",
+      "blurb": "A single yellow bloom multiplies into a thousand dots — night's garden, dreaming in yellow."
+    },
+    {
+      "id": "beach-46-courbet",
+      "exhibitId": "shore",
+      "image": "beach-46-courbet.jpg",
+      "title": "The Weight of Stone",
+      "style": "After Gustave Courbet",
+      "blurb": "Solid rocks, honest earth — the breakwater rendered with a realist's reverence for matter."
+    },
+    {
+      "id": "beach-47-boudin",
+      "exhibitId": "shore",
+      "image": "beach-47-boudin.jpg",
+      "title": "Sparkling Afternoon",
+      "style": "After Eugène Boudin",
+      "blurb": "Luminous sky and sparkling water — an afternoon on the inland sea."
+    },
+    {
+      "id": "beach-48-homer",
+      "exhibitId": "shore",
+      "image": "beach-48-homer.jpg",
+      "title": "Honest Water",
+      "style": "After Winslow Homer",
+      "blurb": "Homer's rugged truth: wind, whitecaps, and a beach that doesn't perform."
+    },
+    {
+      "id": "beach-49-wyeth",
+      "exhibitId": "shore",
+      "image": "beach-49-wyeth.jpg",
+      "title": "The Watcher",
+      "style": "After Andrew Wyeth",
+      "blurb": "Rex stands guard among the rocks, painted with Wyeth's quiet devotion."
+    },
+    {
+      "id": "beach-50-benton",
+      "exhibitId": "shore",
+      "image": "beach-50-benton.jpg",
+      "title": "Muscle of the Lake",
+      "style": "After Thomas Hart Benton",
+      "blurb": "Benton's sculptural waves roll against the tower's steady geometry."
+    },
+    {
+      "id": "beach-51-hiroshige",
+      "exhibitId": "shore",
+      "image": "beach-51-hiroshige.jpg",
+      "title": "Still Water, Passing Ducks",
+      "style": "After Utagawa Hiroshige",
+      "blurb": "A woodblock calm: ducks cross soft water beneath the breakwater's dark line."
+    },
+    {
+      "id": "beach-52-klee",
+      "exhibitId": "shore",
+      "image": "beach-52-klee.jpg",
+      "title": "Flight Study",
+      "style": "After Paul Klee",
+      "blurb": "Klee lifts the gull into whimsy — a bird, a line, a small mid-air joy."
+    },
+    {
+      "id": "beach-53-wood",
+      "exhibitId": "shore",
+      "image": "beach-53-wood.jpg",
+      "title": "The Sentinel",
+      "style": "After Grant Wood",
+      "blurb": "Wood's tower stands at monumental attention over a calm Midwestern sea."
+    },
+    {
+      "id": "beach-54-frankenthaler",
+      "exhibitId": "shore",
+      "image": "beach-54-frankenthaler.jpg",
+      "title": "Sand Into Sky",
+      "style": "After Helen Frankenthaler",
+      "blurb": "Color bleeds and soaks: the beach dissolves into pure luminous wash."
+    },
+    {
+      "id": "beach-55-katz",
+      "exhibitId": "shore",
+      "image": "beach-55-katz.jpg",
+      "title": "Almost In Frame",
+      "style": "After Alex Katz",
+      "blurb": "Katz catches the tower flat and cool — and Rex's snout sneaking in at the edge."
+    },
+    {
+      "id": "beach-56-corot",
+      "exhibitId": "city",
+      "image": "beach-56-corot.jpg",
+      "title": "City in Silver",
+      "style": "After Camille Corot",
+      "blurb": "Corot's mist turns the skyline into a memory of itself."
+    },
+    {
+      "id": "beach-57-sargent",
+      "exhibitId": "city",
+      "image": "beach-57-sargent.jpg",
+      "title": "Bravura Haze",
+      "style": "After John Singer Sargent",
+      "blurb": "Sargent's watercolor bravura: the city sketched in light and weather."
+    }
+  ],
+  "exhibits": [
+    {
+      "coverImage": "beach-01-van-gogh.jpg",
+      "description": "Twenty-seven studies of one shoreline. Each piece begins as a photograph taken on the Lake Michigan beach — the rock breakwaters, the beacon towers, the long pink dusks — and is then reimagined through the hand of a master of art history. Walk the same sand twenty-seven times, and never see it the same way twice.",
+      "id": "beach",
+      "subtitle": "Lake Michigan shoreline studies, reimagined through twenty-seven masters",
+      "title": "Beach"
+    },
+    {
+      "id": "nocturne",
+      "title": "Nocturne",
+      "subtitle": "Night on the water — ten moonlit studies in the masters' hands",
+      "description": "When the sun goes down, the beach changes its language. Moonlight on the breakwater, clouds torn by silver, a lone figure by the rocks — ten nocturnal studies, each reimagined through a master of the night: Redon, Ryder, Kiefer, Delacroix, and more.",
+      "coverImage": "beach-29-aivazovsky.jpg"
+    },
+    {
+      "id": "city",
+      "title": "City",
+      "subtitle": "Chicago after dark and from above — seven urban visions",
+      "description": "The skyline glittering through a balcony railing, sunsets burning orange over the grid, the lakefront seen from the sky. Seven visions of the city, filtered through cubists, precisionists, and color-field dreamers.",
+      "coverImage": "beach-39-feininger.jpg"
+    },
+    {
+      "id": "shore",
+      "title": "Shore",
+      "subtitle": "Daylight studies — flower, stone, and sparkling afternoon",
+      "description": "Daylight returns: a hypnotic flower blooming in dots, rocks rendered with a realist's weight, and an afternoon beach sparkling like 19th-century France.",
+      "coverImage": "beach-47-boudin.jpg"
+    }
+  ]
+}
